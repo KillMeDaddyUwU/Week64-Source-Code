@@ -1,0 +1,5 @@
+camZoom 0.675
+menuBG -980 -545
+noteBlock -685 -500
+demoSprite 0 0
+pressStartText 250 450
